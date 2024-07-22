@@ -1,4 +1,4 @@
-# Weather Data ETL Pipeline
+# Weather Data ETL Pipeline using Python
 
 This repository contains a simple ETL (Extract, Transform, Load) pipeline built in Python. The pipeline fetches weather data from the OpenWeatherMap API, transforms the data into a structured format, and loads it into a CSV file.
 
